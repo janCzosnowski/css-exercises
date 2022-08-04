@@ -1,0 +1,15 @@
+p.odd{
+    background-color: pink;
+}
+.even#two{
+    color:blue;
+    font-size: 36px;
+}
+p.odd.cool{
+    font-size: 22px;
+}
+.even#four{
+    background-color: lightgreen;
+    font-weight: 700;
+    font-size:24px;
+}
